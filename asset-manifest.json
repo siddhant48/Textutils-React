@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddhant48/Textutils-React/static/css/main.f855e6bc.css",
+    "main.js": "/siddhant48/Textutils-React/static/js/main.3a3ae875.js",
+    "static/js/453.fba879b9.chunk.js": "/siddhant48/Textutils-React/static/js/453.fba879b9.chunk.js",
+    "index.html": "/siddhant48/Textutils-React/index.html",
+    "main.f855e6bc.css.map": "/siddhant48/Textutils-React/static/css/main.f855e6bc.css.map",
+    "main.3a3ae875.js.map": "/siddhant48/Textutils-React/static/js/main.3a3ae875.js.map",
+    "453.fba879b9.chunk.js.map": "/siddhant48/Textutils-React/static/js/453.fba879b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3a3ae875.js"
+  ]
+}
